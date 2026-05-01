@@ -1,0 +1,15 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.log
+
+# Workspace settings
+.vscode/
+.idea/
+
+# Research scraps
+scratch/
+temp/
