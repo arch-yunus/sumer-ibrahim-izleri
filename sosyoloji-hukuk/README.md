@@ -1,14 +1,12 @@
-# ?? Hukuk ve Toplum Yapısı (`/sosyoloji-hukuk`)
+# Hukuk ve Toplum Yapısı
 
-Modern hukukun ve toplumsal kuralların Mezopotamya'daki kaynak kodları. Toplumsal düzenin "kutsal" yasalardan "medeni" yasalara ve tekrar "şeriat" yapısına geçiş süreçleri.
+Modern hukuk ve toplumsal düzenin Mezopotamya kökenlerini karşılaştırır.
 
-## ?? Sosyo-Hukuki Analiz
+## İçerik Dizini
 
-### 1. Adalet Kodları
-*Ur-Nammu* ve *Lipit-İştar* kanunlarının, On Emir ve sonraki İbrahimi hukuk sistemlerindeki (Halakha, Şeriat) izdüşümleri. Kısas ve tazminat kavramlarının kökeni.
+| Dosya | Konu |
+|-------|------|
+| [kanun-karsilastirmasi.md](./kanun-karsilastirmasi.md) | Ur-Nammu, Lipit-İştar, On Emir |
+| [yonetim-modelleri.md](./yonetim-modelleri.md) | En/Ensi ve peygamber-lider |
 
-### 2. Sınıf Yapısı ve Ruhbanlık
-Sümerlerdeki rahip-kral (En/Ensi) modeli ile peygamber-lider modeli arasındaki yönetimsel benzerlikler. Tapınak ekonomisi ve zekat/öşür sisteminin ilksel formları.
-
----
 > *"Yasa, toplumun vicdanıdır; tarih ise o vicdanın hafızası."*

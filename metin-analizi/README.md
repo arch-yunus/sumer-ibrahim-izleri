@@ -1,20 +1,19 @@
-# ?? Metin Analizi ve Karşılaştırmalı Teoloji (`/metin-analizi`)
+# Metin Analizi ve Karşılaştırmalı Teoloji
 
-Çivi yazılı tabletler ile kutsal metinlerin (Tevrat, İncil, Kur'an) "diff" analizini yapıyoruz. Metinlerin edebi ve teolojik akrabalıklarını bilimsel bir perspektifle ele alıyoruz.
+Çivi yazılı ve standart Babil metinleri ile İbrahimi kutsal metinler arasında motif düzeyinde karşılaştırma. Yapılandırılmış özet: [`../data/metin-paralelleri.json`](../data/metin-paralelleri.json).
 
-## ?? Araştırma Konuları
+## İçerik Dizini
 
-### 1. Yaratılış ve Kozmogoni
-*Enuma Eliş* destanındaki kaos ile yaratılış süreci arasındaki paralellikler. "Suların üzerindeki ruh" ve evrenin ayrıştırılması motifleri.
+| Dosya | Konu |
+|-------|------|
+| [karsilastirma-matrisi.md](./karsilastirma-matrisi.md) | Genel motif tablosu |
+| [tufan-protokolu.md](./tufan-protokolu.md) | Ziusudra – Utnapiştim – Nuh |
+| [yaratilis-paralellikleri.md](./yaratilis-paralellikleri.md) | Enuma Eliş ve Bereshit |
+| [adapa-analizi.md](./adapa-analizi.md) | Adapa ve yasak bilgi |
 
-### 2. Adapa ve Kayıp Ölümsüzlük
-İlk insan anlatılarındaki benzer motifler; yasaklı bilgi, itaat ve ölümsüzlük arayışı. Adapa'nın hikayesinin dini anlatılardaki "düşüş" metaforuyla ilişkisi.
+## Dijital Korpuslar
 
-### 3. Tufan Protokolü
-*Ziusudra*, *Utnapiştim* ve *Nuh* karakterlerinin fonksiyonel analizi. Fırtına tanrılarından, mutlak yaratıcıya geçişte Tufan sembolizmi ve jeolojik kanıt tartışmaları.
+- [ETCSL](https://etcsl.orinst.ox.ac.uk/) — Sümer edebiyatı
+- [CDLI](https://cdli.ucla.edu/) — Tablet fotoğrafları ve transkripsiyon
 
-### 4. Kurban Fenomenolojisi
-Sümer tapınaklarındaki adak sisteminin ve "yerine koyma" ritüellerinin İbrahimi kurban geleneğine evrilme aşamaları.
-
----
 > *"Metinler arası yolculuk, hakikatin evrimini gösterir."*

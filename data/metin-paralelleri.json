@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "description": "Mezopotamya ve İbrahimi gelenekler arası motif paralelleri",
+  "paraleller": [
+    {
+      "motif": "Tufan",
+      "mezopotamya": {
+        "metinler": ["Ziusudra (Sümer)", "Atrahasis", "Gilgameş Tab. XI (Utnapiştim)"],
+        "ozet": "Tanrı(lar) insanlığı cezalandırır; bir kişi uyarılır, gemi inşa edilir, hayvanlar kurtarılır, kurban sunulur"
+      },
+      "ibrahimi": {
+        "metinler": ["Tevrat (Bereshit 6–9)", "Kur'an (Hud, Nuh sureleri)"],
+        "ozet": "Nuh uyarılır; gemi; yağmur tufanı; kuşlar; Tanrı ile antlaşma"
+      },
+      "not": "Fonksiyonel benzerlik; doğrudan metin aktarımı tartışmalıdır (Babylonian captivity etkisi vb.)"
+    },
+    {
+      "motif": "Yaratılış / Kaos",
+      "mezopotamya": {
+        "metinler": ["Enuma Eliş"],
+        "ozet": "Tiamat ve Apsu; Marduk düzen kurar; insanlar kan ve çamurdan"
+      },
+      "ibrahimi": {
+        "metinler": ["Bereshit 1–2", "Kur'an yaratılış ayetleri"],
+        "ozet": "Tohu ve bohu; ruah; altı gün; Adem topraktan"
+      },
+      "not": "Kozmik düzenleme ve insanın son yaratılışı ortak tema"
+    },
+    {
+      "motif": "Kayıp ölümsüzlük",
+      "mezopotamya": {
+        "metinler": ["Adapa efsanesi", "Gilgameş"],
+        "ozet": "Yasak yiyecek/içecek; tanrıların ölümsüzlük kararı"
+      },
+      "ibrahimi": {
+        "metinler": ["Adem–Havva (bilgi ağacı)", "Musa ve ölümsüzlük arayışı motifleri"],
+        "ozet": "Sınır ihlali ve ölüme mahkûmiyet"
+      },
+      "not": "Adapa ile 'düşüş' metaforu karşılaştırmalı teolojide sık işlenir"
+    },
+    {
+      "motif": "Kurban / yerine koyma",
+      "mezopotamya": {
+        "metinler": ["Tapınak adak tabletleri", "Kral kurban metinleri"],
+        "ozet": "Günlük sunu, propisasyon, bazen insan kurbanı (nadir, tartışmalı)"
+      },
+      "ibrahimi": {
+        "metinler": ["İshak kurbanı anlatısı", "Pesah", "Kurban bayramı"],
+        "ozet": "İman imtihanı; kuzu yerine koyma; kanla antlaşma"
+      },
+      "not": "Ritüel süreklilik ile teolojik yeniden yorumlama ayrımı önemli"
+    }
+  ]
+}

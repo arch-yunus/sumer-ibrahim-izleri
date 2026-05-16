@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "description": "Teolojik ve dilsel terimler — Sümer'den İbrahimi geleneklere",
+  "terimler": [
+    {
+      "kavram": "Gök / Üst tanrı",
+      "surece": [
+        { "dil": "Sümerce", "form": "An / Anu", "anlam": "Gök, göksel otorite" },
+        { "dil": "Akkadca", "form": "Anu", "anlam": "Panteon başı (dönemsel)" },
+        { "dil": "Kuzeybatı Semitik", "form": "El / Elohim", "anlam": "Tanrı, güçlü olan" },
+        { "dil": "İbranice", "form": "Elohim / YHWH", "anlam": "Tek veya çoğul formlu ilah adları" },
+        { "dil": "Arapça", "form": "Allah", "anlam": "Tek tanrı; el-İlah türevi" }
+      ]
+    },
+    {
+      "kavram": "Cennet bahçesi",
+      "surece": [
+        { "dil": "Sümerce", "form": "Dilmun", "anlam": "Ölümsüzlük ve saflık yeri (epik)" },
+        { "dil": "İbranice", "form": "Gan Eden", "anlam": "İnsanlığın başlangıç bahçesi" },
+        { "dil": "Kur'an", "form": "Cennet", "anlam": "Adem'in konumu; sonraki vaat" }
+      ]
+    },
+    {
+      "kavram": "Ad — Avram",
+      "surece": [
+        { "dil": "İbranice", "form": "Avram / Avraham", "anlam": "Ab (baba) + ram (yüce?) veya çok uluslu baba (Avraham)" },
+        { "dil": "Akkad / Amorite", "form": "Abam-rama (öneri)", "anlam": "Baba sevgili; Mezopotamya isim kalıbı" }
+      ],
+      "not": "Teoforik ve patronimik bileşenler; tablet isimleriyle tam örtüşme araştırma konusu"
+    },
+    {
+      "kavram": "Adalet / kanun",
+      "surece": [
+        { "dil": "Sümerce", "form": "me / dištaran", "anlam": "Adalet, yargı" },
+        { "dil": "Akkadca", "form": "dīnu / kittu", "anlam": "Hüküm, doğruluk" },
+        { "dil": "İbranice", "form": "mishpat / tsedek", "anlam": "Hüküm ve doğruluk" }
+      ]
+    }
+  ]
+}

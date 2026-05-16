@@ -1,17 +1,21 @@
-# ?? Coğrafi ve Arkeolojik Veri Merkezi (`/arkeoloji`)
+# Coğrafi ve Arkeolojik Veri Merkezi
 
-İbrahimi anlatıların fiziksel koordinatlarını Sümer coğrafyasıyla çakıştırıyoruz. Bu modül, arkeolojik buluntuların teolojik anlatılarla olan mekansal bağını inceler.
+İbrahimi anlatıların fiziksel koordinatlarını Sümer–Akkad coğrafyasıyla çakıştırır. Yapılandırılmış koordinatlar: [`../data/lokasyonlar.json`](../data/lokasyonlar.json).
 
-## ?? Odak Noktaları
+## İçerik Dizini
 
-### 1. Ur (Urim) Katmanları
-Sir Leonard Woolley'in kazı notlarından hareketle, M.Ö. 2000'li yıllarda Ur şehrindeki yaşam standartları, mimari yapı ve toplumsal doku. İbrahim'in "Ur" kökenli olduğu anlatısının arkeolojik arka planı.
+| Dosya | Konu |
+|-------|------|
+| [ur-kazilari.md](./ur-kazilari.md) | Woolley kazıları, Ur katmanları |
+| [ziggurat-rehberi.md](./ziggurat-rehberi.md) | Tapınak mimarisi ve ibadet yüksekliği |
+| [harran.md](./harran.md) | Sin kültü ve kuzey yayılım |
+| [zaman-cizelgesi.md](./zaman-cizelgesi.md) | Kronolojik çerçeve |
+| [koordinatlar.md](./koordinatlar.md) | Lokasyon tablosu |
 
-### 2. Ziggurat Yapıları
-Gökyüzü gözlemleri ile tapınak kültürü arasındaki bağ. "Yüksek yerlerde ibadet" geleneğinin kökeni ve Babil Kulesi (Etemenanki) benzeri yapıların teolojik izdüşümleri.
+## Odak Noktaları
 
-### 3. Harran Senkronizasyonu
-Sümer/Akad kültürünün kuzeye taşınması ve İbrahim'in yolculuğundaki kültürel durak noktaları. Harran'ın bir "Ay Kültü" (Sin) merkezi olarak önemi.
+1. **Ur (Urim)** — Erken Dinastik’ten Babil dönemine kent katmanları; Nanna zigguratı.
+2. **Ziggurat** — Gökyüzü gözlemi, merdiven tapınağı, “yüksek yer” geleneği.
+3. **Harran** — Ay tanrısı Sin; İbrahim yolculuğu ve Mezopotamya–Anadolu koridoru.
 
----
 > *"Toprak konuşursa, efsaneler susar ve tarih başlar."*

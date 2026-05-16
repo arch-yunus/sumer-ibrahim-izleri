@@ -1,73 +1,90 @@
 # sumer-ibrahim-izleri
 
-**Sümer Mitolojisi ve İbrahimi Gelenekler Arasındaki Tarihsel, Teolojik ve Arkeolojik Bağlantıları İnceleyen Kapsamlı Araştırma Reposu.**
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+**Sümer mitolojisi ile İbrahimi gelenekler arasındaki tarihsel, teolojik ve arkeolojik bağlantıları inceleyen açık araştırma deposu.**
 
 ---
 
-## ?? Proje Manifestosu
+## Proje Manifestosu
 
-Bu araştırma projesi, Mezopotamya'nın tozlu tabletlerinden modern monoteizmin köklerine uzanan devasa bir kültürel köprüyü analiz etmek amacıyla kurulmuştur. İnsanlık tarihinin "yazılı" başlangıcı olan Sümerler ile tek tanrılı inancın atası kabul edilen Hz. İbrahim arasındaki bağlar, sadece bir inanç meselesi değil; dillerin, yasaların, mimarinin ve evren algısının nasıl evrildiğinin bir simülasyonudur.
+Mezopotamya tabletlerinden modern monoteizmin köklerine uzanan kültürel süreklilik, bu depoda disiplinlerarası biçimde belgelenir: arkeoloji, filoloji ve karşılaştırmalı dinler tarihi verileri bir arada sunulur; yapılandırılmış JSON dosyaları (`data/`) arama ve karşılaştırmayı kolaylaştırır.
 
-Bu repo, disiplinlerarası bir yaklaşımla (Arkeoloji, Filoloji, Karşılaştırmalı Dinler Tarihi) veri toplamayı ve bu verileri "açık kaynak" felsefesiyle sunmayı hedefler.
-
----
-
-## ??? Araştırma Modülleri
-
-### ?? 01. Coğrafi ve Arkeolojik Veri Merkezi ([`/arkeoloji`](./arkeoloji))
-İbrahimi anlatıların fiziksel koordinatlarını Sümer coğrafyasıyla çakıştırıyoruz.
-*   **Ur (Urim) Katmanları:** Sir Leonard Woolley'in kazı notlarından hareketle, M.Ö. 2000'li yıllarda Ur şehrindeki yaşam standartları.
-*   **Ziggurat Yapıları:** Gökyüzü gözlemleri ile tapınak kültürü arasındaki bağ. "Yüksek yerlerde ibadet" geleneğinin kökeni.
-*   **Harran Senkronizasyonu:** Sümer/Akad kültürünün kuzeye taşınması ve İbrahim'in yolculuğundaki kültürel durak noktaları.
-
-### ?? 02. Metin Analizi ve Karşılaştırmalı Teoloji ([`/metin-analizi`](./metin-analizi))
-Çivi yazılı tabletler ile kutsal metinlerin (Tevrat, İncil, Kur'an) "diff" analizini yapıyoruz.
-*   **Yaratılış ve Kozmogoni:** *Enuma Eliş* destanındaki kaos ile yaratılış süreci arasındaki paralellikler.
-*   **Adapa ve Kayıp Ölümsüzlük:** İlk insan anlatılarındaki benzer motifler; yasaklı bilgi ve ölümsüzlük arayışı.
-*   **Tufan Protokolü:** *Ziusudra*, *Utnapiştim* ve *Nuh* karakterlerinin fonksiyonel analizi.
-*   **Kurban Fenomenolojisi:** Sümer tapınaklarındaki adak sisteminin İbrahimi kurban geleneğine evrilme aşamaları.
-
-### ?? 03. Linguistik ve Etimolojik Sözlük ([`/etimoloji`](./etimoloji))
-Kavramların binlerce yıl içinde geçirdiği mutasyonları takip ediyoruz.
-*   **İlah Kavramının Evrimi:** Sümerce `An` (Gök), Akadca `Anu`, Kenan dillerindeki `El` ve İbrahimi `Elohim/Allah` arasındaki köprüler.
-*   **İsim Analizleri:** Mezopotamya tabletlerinde geçen kişi isimlerinin (Ab-ram, Sarai vb.) etimolojik kökenleri.
-*   **Cennet (Dilmun):** Sümerlerin "yaşlılığın ve ölümün olmadığı yer" olarak tanımladığı Dilmun bahçesi ile Aden arasındaki bağlar.
-
-### ?? 04. Hukuk ve Toplum Yapısı ([`/sosyoloji-hukuk`](./sosyoloji-hukuk))
-Modern hukukun ve toplumsal kuralların Mezopotamya'daki kaynak kodları.
-*   **Adalet Kodları:** *Ur-Nammu* ve *Lipit-İştar* kanunlarının, On Emir ve sonraki şeriat hukuklarındaki izdüşümleri.
-*   **Sınıf Yapısı:** Sümerlerdeki rahip-kral (En/Ensi) modeli ile peygamber-lider modeli arasındaki yönetimsel benzerlikler.
+> *"Geçmiş, henüz keşfedilmemiştir."* — Bu depo, o keşfi tabletlerin ve haritaların arasında sürdürür.
 
 ---
 
-## ??? Araştırma Soruları (Issues)
+## Hızlı Erişim
 
-Aşağıdaki sorular, projenin çözüm bekleyen ana tartışma noktalarıdır:
-
-1.  **Monoteist Devrim mi, Evolüsyon mu?** Hz. İbrahim'in putları kırması, Sümer'deki karmaşık panteondan bir soyutlamaya gidişin sosyolojik sonucu mudur?
-2.  **Sümerli İbrahim Hipotezi:** Ur şehrinin bir Sümer metropolü olduğu gerçeği ışığında, İbrahim'in kültürel kimliği ne kadar "Sümerli" idi?
-3.  **Kayıp Tabletler:** Henüz tercüme edilmemiş binlerce tablet, İbrahimi gelenekler hakkında bilinmeyen hangi "yama" notlarını içeriyor?
-
----
-
-## ?? Kaynakça ve Bağımlılıklar
-
-Bu araştırma, aşağıdaki "kütüphanelerin" üzerine inşa edilmiştir:
-
-*   **Samuel Noah Kramer:** *History Begins at Sumer* (Tarih Sümer'de Başlar)
-*   **Muazzez İlmiye Çığ:** *İbrahim Peygamber - Sümer Yazılarına ve Arkeolojik Buluntulara Göre*
-*   **Mircea Eliade:** *Dinler Tarihine Giriş*
-*   **Jean Bottéro:** *Mezopotamya: Yazı, Akıl ve Tanrılar*
+| Modül | Açıklama | Giriş |
+|-------|----------|-------|
+| Arkeoloji | Ur, ziggurat, Harran; koordinatlar ve kronoloji | [`arkeoloji/`](./arkeoloji/) |
+| Metin analizi | Tufan, yaratılış, Adapa; karşılaştırma matrisleri | [`metin-analizi/`](./metin-analizi/) |
+| Etimoloji | İlah kavramları, teoforik isimler, Dilmun–Aden | [`etimoloji/`](./etimoloji/) |
+| Sosyoloji & hukuk | Mezopotamya kanunları ve İbrahimi hukuk izleri | [`sosyoloji-hukuk/`](./sosyoloji-hukuk/) |
+| Veri | Makine okunur lokasyon, paralel ve terimler | [`data/`](./data/) |
+| Kaynaklar | Bibliyografya | [`kaynaklar/bibliyografya.md`](./kaynaklar/bibliyografya.md) |
 
 ---
 
-## ?? Katkıda Bulunma
+## Araştırma Modülleri
 
-Bu bir "açık istihbarat" projesidir. Katkı sağlamak için:
-1.  Akademik kaynaklı bir makale özeti ekleyin.
-2.  Arkeolojik bir bulguyu (görsel veya metin) klasörlere yerleştirin.
-3.  Etimolojik bir tartışma başlatmak için yeni bir `issue` oluşturun.
+### 01 — Coğrafi ve Arkeolojik Veri Merkezi ([`arkeoloji`](./arkeoloji))
+
+- [Ur kazıları ve katmanlar](./arkeoloji/ur-kazilari.md)
+- [Ziggurat rehberi](./arkeoloji/ziggurat-rehberi.md)
+- [Harran ve Sin kültü](./arkeoloji/harran.md)
+- [Zaman çizelgesi](./arkeoloji/zaman-cizelgesi.md)
+- [Koordinat tablosu](./arkeoloji/koordinatlar.md)
+
+### 02 — Metin Analizi ([`metin-analizi`](./metin-analizi))
+
+- [Karşılaştırma matrisi](./metin-analizi/karsilastirma-matrisi.md)
+- [Tufan protokolü](./metin-analizi/tufan-protokolu.md)
+- [Yaratılış paralellikleri](./metin-analizi/yaratilis-paralellikleri.md)
+- [Adapa analizi](./metin-analizi/adapa-analizi.md)
+
+### 03 — Etimoloji ([`etimoloji`](./etimoloji))
+
+- [İlah kavramlarının evrimi](./etimoloji/ilah-kavramlari.md)
+- [İsim sözlüğü](./etimoloji/isim-sozlugu.md)
+- [Dilmun ve Aden](./etimoloji/dilmun-eden.md)
+- [Terimler (JSON)](./data/terimler.json)
+
+### 04 — Hukuk ve Toplum ([`sosyoloji-hukuk`](./sosyoloji-hukuk))
+
+- [Kanun karşılaştırması](./sosyoloji-hukuk/kanun-karsilastirmasi.md)
+- [Yönetim modelleri](./sosyoloji-hukuk/yonetim-modelleri.md)
 
 ---
 
-> **Terminal Notu:** *"Geçmiş, henüz keşfedilmemiştir."* Bu repo, o keşfi tabletlerin arasında aramaktadır.
+## Açık Araştırma Soruları
+
+1. **Monoteist devrim mi, evolüsyon mu?** Putların reddi, Mezopotamya panteonundan soyutlamaya giden sosyolojik süreçle nasıl örtüşür?
+2. **Sümerli İbrahim hipotezi:** Ur'un Sümer-Akkad metropolü olduğu bağlamda kültürel kimlik tartışması ne kadar desteklenir?
+3. **Kayıp tabletler:** Henüz yayınlanmamış çivi yazılı arşivler İbrahimi gelenekler için hangi boşlukları doldurabilir?
+
+Soruları GitHub Issues üzerinden şablonla açabilirsiniz.
+
+---
+
+## Temel Kaynaklar
+
+- Samuel Noah Kramer — *History Begins at Sumer*
+- Muazzez İlmiye Çığ — *İbrahim Peygamber (Sümer yazılarına göre)*
+- Mircea Eliade — *Dinler Tarihine Giriş*
+- Jean Bottéro — *Mezopotamya: Yazı, Akıl ve Tanrılar*
+
+Tam liste: [`kaynaklar/bibliyografya.md`](./kaynaklar/bibliyografya.md)
+
+---
+
+## Katkıda Bulunma
+
+Açık istihbarat ilkesiyle çalışıyoruz. Detaylar: [CONTRIBUTING.md](./CONTRIBUTING.md)
+
+---
+
+## Lisans
+
+İçerik [CC BY-SA 4.0](./LICENSE) altındadır; atıf ve paylaşım koşullarına uygun yeniden kullanım teşvik edilir.

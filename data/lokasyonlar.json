@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "description": "İbrahimi anlatı ve Sümer coğrafyası örtüşen lokasyonlar",
+  "lokasyonlar": [
+    {
+      "id": "ur",
+      "ad": "Ur (Urim)",
+      "modern_ad": "Tell el-Muqayyar",
+      "ulke": "Irak",
+      "lat": 30.9625,
+      "lon": 46.1031,
+      "donem": "Erken Dinastik – Eski Babil",
+      "onem": "İbrahim geleneğinde doğum yeri; Nanna (Ay) zigguratı; Woolley kazıları",
+      "kaynak": "Woolley, Ur Excavations; Çığ, İbrahim Peygamber"
+    },
+    {
+      "id": "harran",
+      "ad": "Harran",
+      "modern_ad": "Altınbaşak (Şanlıurfa)",
+      "ulke": "Türkiye",
+      "lat": 36.867,
+      "lon": 39.033,
+      "donem": "Bronz Çağı – Roma",
+      "onem": "Sin (Ay) kült merkezi; İbrahim yolculuğu durağı",
+      "kaynak": "Campbell; Mezopotamya kuzey yayılımı çalışmaları"
+    },
+    {
+      "id": "uruk",
+      "ad": "Uruk",
+      "modern_ad": "Warka",
+      "ulke": "Irak",
+      "lat": 31.3242,
+      "lon": 45.6361,
+      "donem": "Uruk dönemi – Seleukid",
+      "onem": "Gilgameş geleneği; erken kent devleti",
+      "kaynak": "ETCSL; Van De Mieroop"
+    },
+    {
+      "id": "nippur",
+      "ad": "Nippur",
+      "modern_ad": "Nuffar",
+      "ulke": "Irak",
+      "lat": 32.126,
+      "lon": 45.23,
+      "donem": "Sümer – Pers",
+      "onem": "Enlil kültü; dini ve hukuki metinler",
+      "kaynak": "Oppenheim; Nippur tablet arşivleri"
+    },
+    {
+      "id": "dilmun",
+      "ad": "Dilmun (önerilen)",
+      "modern_ad": "Bahreyn / Failaka (tartışmalı)",
+      "ulke": "Körfez",
+      "lat": 26.0667,
+      "lon": 50.5577,
+      "donem": "Bronz Çağı ticaret",
+      "onem": "Sümer cennet bahçesi motifinin coğrafyası",
+      "kaynak": "Kramer; Dilmun epikleri"
+    }
+  ]
+}
