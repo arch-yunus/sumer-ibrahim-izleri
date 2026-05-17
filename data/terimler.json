@@ -5,35 +5,66 @@
     {
       "kavram": "Gök / Üst tanrı",
       "surece": [
-        { "dil": "Sümerce", "form": "An / Anu", "anlam": "Gök, göksel otorite" },
-        { "dil": "Akkadca", "form": "Anu", "anlam": "Panteon başı (dönemsel)" },
-        { "dil": "Kuzeybatı Semitik", "form": "El / Elohim", "anlam": "Tanrı, güçlü olan" },
-        { "dil": "İbranice", "form": "Elohim / YHWH", "anlam": "Tek veya çoğul formlu ilah adları" },
-        { "dil": "Arapça", "form": "Allah", "anlam": "Tek tanrı; el-İlah türevi" }
+        { "dil": "Sümerce", "form": "An / Anu", "anlam": "Gök, göksel otorite (Dingir yıldız işareti)" },
+        { "dil": "Akkadca", "form": "Anu / Ilum", "anlam": "Panteon başı; genel tanrı kökü (ilum)" },
+        { "dil": "Kuzeybatı Semitik", "form": "El / Elyon", "anlam": "Tanrı, en yüksek yaratıcı baba" },
+        { "dil": "İbranice", "form": "Elohim / YHWH", "anlam": "Çoğul biçimli tekil teolojik ilah; kutsal varlık YHWH" },
+        { "dil": "Arapça", "form": "Allah", "anlam": "Tek tanrı; el-İlah kontraksiyonu" }
       ]
     },
     {
       "kavram": "Cennet bahçesi",
       "surece": [
-        { "dil": "Sümerce", "form": "Dilmun", "anlam": "Ölümsüzlük ve saflık yeri (epik)" },
-        { "dil": "İbranice", "form": "Gan Eden", "anlam": "İnsanlığın başlangıç bahçesi" },
-        { "dil": "Kur'an", "form": "Cennet", "anlam": "Adem'in konumu; sonraki vaat" }
+        { "dil": "Sümerce", "form": "Dilmun", "anlam": "Ölümsüzlük ve saflık yeri; Enki'nin suladığı bahçe" },
+        { "dil": "Akkadca", "form": "Edinu", "anlam": "Ova, düzlük, nehir havzası (İbraniceye geçiş)" },
+        { "dil": "İbranice", "form": "Gan Eden", "anlam": "İnsanlığın başlangıç zevk/hoşluk bahçesi; 4 nehir havzası" },
+        { "dil": "Kur'an", "form": "Cennet", "anlam": "Adem'in ilk konumu; müminlere vaat edilen nehirli bahçe" }
       ]
     },
     {
       "kavram": "Ad — Avram",
       "surece": [
-        { "dil": "İbranice", "form": "Avram / Avraham", "anlam": "Ab (baba) + ram (yüce?) veya çok uluslu baba (Avraham)" },
-        { "dil": "Akkad / Amorite", "form": "Abam-rama (öneri)", "anlam": "Baba sevgili; Mezopotamya isim kalıbı" }
+        { "dil": "İbranice", "form": "Avram / Avraham", "anlam": "Ab (baba) + ram (yüce) = Yüce Babam. Avraham: Çok ulusun babası." },
+        { "dil": "Akkad / Amorite", "form": "Abam-rama / Abi-ram", "anlam": "Baba sevilendir / Babam yücedir; Mari/Babil tablet isimleri" }
       ],
-      "not": "Teoforik ve patronimik bileşenler; tablet isimleriyle tam örtüşme araştırma konusu"
+      "not": "Şahıs adının antik Mezopotamya antroponimisiyle tam tarihsel uyumu."
+    },
+    {
+      "kavram": "Ad — Saray",
+      "surece": [
+        { "dil": "İbranice", "form": "Saray / Sara", "anlam": "Prenses, Kraliçe (sar kökünden)" },
+        { "dil": "Akkadca", "form": "Šarratu", "anlam": "Kraliçe; Ur ve Harran'da Ay Tanrısı Sin'in eşi Ningal'in kutsal kült unvanı" }
+      ],
+      "not": "İbrahim'in eşinin isminin doğrudan Harran ay kültü teolojik terminolojisine dayanması."
+    },
+    {
+      "kavram": "Ad — Laban",
+      "surece": [
+        { "dil": "İbranice / Aramice", "form": "Laban (Lavan)", "anlam": "Beyaz" },
+        { "dil": "Sami Ay Kültü", "form": "L-b-n / Dolunay", "anlam": "Gümüşî dolunayın parlaklığı/beyazlığı; Harran inanç yansıması" }
+      ]
+    },
+    {
+      "kavram": "Kozmik derinlik / Kaos",
+      "surece": [
+        { "dil": "Akkadca", "form": "Tiamat", "anlam": "Tuzlu su kaos ejderhası; Marduk'un ikiye yardığı okyanus canavarı" },
+        { "dil": "İbranice", "form": "Tehom", "anlam": "Yaratılış 1:2'de geçen primordial sular / engin derinlik" }
+      ],
+      "not": "Tevrat yazarlarının politeist canavarı cansız fiziksel bir su kütlesine dönüştürmesi (demitojizasyon)."
+    },
+    {
+      "kavram": "Merdiven / Ziggurat",
+      "surece": [
+        { "dil": "Akkadca", "form": "Ziqqurratu / Simmiltu", "anlam": "Yükseltilmiş tapınak platformu; anıtsal merdiven/rampa" },
+        { "dil": "İbranice", "form": "Sullam", "anlam": "Yakup'un rüyasındaki meleklerin inip çıktığı göksel merdiven" }
+      ]
     },
     {
       "kavram": "Adalet / kanun",
       "surece": [
-        { "dil": "Sümerce", "form": "me / dištaran", "anlam": "Adalet, yargı" },
-        { "dil": "Akkadca", "form": "dīnu / kittu", "anlam": "Hüküm, doğruluk" },
-        { "dil": "İbranice", "form": "mishpat / tsedek", "anlam": "Hüküm ve doğruluk" }
+        { "dil": "Sümerce", "form": "me / dištaran", "anlam": "Kozmik yasalar (me) ve adalet tanrısı" },
+        { "dil": "Akkadca", "form": "dīnu / kittu / mīšarum", "anlam": "Hüküm, doğruluk, kralın adalet reformu" },
+        { "dil": "İbranice", "form": "mishpat / tsedek / torah", "anlam": "Yasa, hüküm, doğruluk ve Tanrı'nın vahyettiği şeriat" }
       ]
     }
   ]

@@ -65,6 +65,8 @@ def _json_preview(data: object, term: str) -> str:
 
 
 def main() -> int:
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
     parser = argparse.ArgumentParser(description="sumer-ibrahim-izleri depo araması")
     parser.add_argument("term", help="Aranacak kelime veya ifade")
     parser.add_argument("--json", action="store_true", help="JSON çıktı")

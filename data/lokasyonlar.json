@@ -10,7 +10,7 @@
       "lat": 30.9625,
       "lon": 46.1031,
       "donem": "Erken Dinastik – Eski Babil",
-      "onem": "İbrahim geleneğinde doğum yeri; Nanna (Ay) zigguratı; Woolley kazıları",
+      "onem": "Tevrat'ta İbrahim'in çıkış yeri olarak geçen 'Ur Kasdim'. Nanna (Sin) zigguratı ve Woolley tarafından saptanan meşhur 'tufan mili' silt tabakası.",
       "kaynak": "Woolley, Ur Excavations; Çığ, İbrahim Peygamber"
     },
     {
@@ -20,9 +20,9 @@
       "ulke": "Türkiye",
       "lat": 36.867,
       "lon": 39.033,
-      "donem": "Bronz Çağı – Roma",
-      "onem": "Sin (Ay) kült merkezi; İbrahim yolculuğu durağı",
-      "kaynak": "Campbell; Mezopotamya kuzey yayılımı çalışmaları"
+      "donem": "Bronz Çağı – İslam Dönemi",
+      "onem": "Ay Tanrısı Sin'in (Nanna) anıtsal tapınağı E-hul-hul'ün kuzey merkezi. Terah'ın öldüğü ve İbrahim'in Kenan'a çağrı aldığı yolculuk durağı. Kabile klanlarının (Rebeka, Lea, Rahel) yurdu.",
+      "kaynak": "Green, The City of the Moon God; Tevrat (Yaratılış 11-12)"
     },
     {
       "id": "uruk",
@@ -32,7 +32,7 @@
       "lat": 31.3242,
       "lon": 45.6361,
       "donem": "Uruk dönemi – Seleukid",
-      "onem": "Gilgameş geleneği; erken kent devleti",
+      "onem": "Gılgamış'ın şehri. Yazının icat edildiği yer. Gökyüzü Tanrısı An ve tanrıça İnanna'nın kutsal merkezleri.",
       "kaynak": "ETCSL; Van De Mieroop"
     },
     {
@@ -43,19 +43,63 @@
       "lat": 32.126,
       "lon": 45.23,
       "donem": "Sümer – Pers",
-      "onem": "Enlil kültü; dini ve hukuki metinler",
-      "kaynak": "Oppenheim; Nippur tablet arşivleri"
+      "onem": "Baş tanrı Enlil'in tapınağı Ekur'un mekanı. Sümer panteonunun dini kalbi. Tevrat ve Şeriat yasalarıyla parallellik kuran zengin tablet arşivleri.",
+      "kaynak": "Oppenheim, Ancient Mesopotamia; Stone, Nippur Neighborhoods"
+    },
+    {
+      "id": "babilon",
+      "ad": "Babil (Babilon)",
+      "modern_ad": "Tell Babil (Hillah)",
+      "ulke": "Irak",
+      "lat": 32.543,
+      "lon": 44.4244,
+      "donem": "Eski Babil – Yeni Babil",
+      "onem": "Babil Kulesi anlatısına konu olan Marduk Zigguratı Etemenanki'nin yeri. Babil Sürgünü (M.Ö. 586-539) ve Tevrat metinlerinin redaksiyon merkezi.",
+      "kaynak": "George, House Most High; Finkelstein, The Bible Unearthed"
+    },
+    {
+      "id": "suruppak",
+      "ad": "Şuruppak",
+      "modern_ad": "Fara",
+      "ulke": "Irak",
+      "lat": 31.7758,
+      "lon": 45.4389,
+      "donem": "Erken Dinastik",
+      "onem": "Sümer tufan destanındaki 'Nuh' figürü bilge kral Ziusudra'nın yurdu. Kazılarda saptanan büyük sel katmanı lokasyonu.",
+      "kaynak": "Lambert & Millard, Atrahasis; Eridu Genesis"
+    },
+    {
+      "id": "kutha",
+      "ad": "Kutha",
+      "modern_ad": "Tell Ibrahim",
+      "ulke": "Irak",
+      "lat": 32.7667,
+      "lon": 44.75,
+      "donem": "Eski Babil – Neo-Asur",
+      "onem": "İslami ve halk anlatılarında İbrahim'i ateşe atan Nemrut'un kalesi olarak geçen antik yerleşim. Yeraltı Tanrısı Nergal'in kült merkezi.",
+      "kaynak": "Neo-Assyrian Toponyms; Kutsal Kitap tefsirleri"
     },
     {
       "id": "dilmun",
-      "ad": "Dilmun (önerilen)",
-      "modern_ad": "Bahreyn / Failaka (tartışmalı)",
+      "ad": "Dilmun",
+      "modern_ad": "Bahreyn bölgesi",
       "ulke": "Körfez",
       "lat": 26.0667,
       "lon": 50.5577,
       "donem": "Bronz Çağı ticaret",
-      "onem": "Sümer cennet bahçesi motifinin coğrafyası",
-      "kaynak": "Kramer; Dilmun epikleri"
+      "onem": "Sümer yaratılış destanlarında ölümün ve hastalığın olmadığı kutsal cennet bahçesi. Tevrat'taki Gan Eden (Aden Bahçesi) tasvirinin coğrafi ve sembolik arketipi.",
+      "kaynak": "Kramer, Dilmun Epics; Zarins, Journal of Cuneiform Studies"
+    },
+    {
+      "id": "eridu",
+      "ad": "Eridu",
+      "modern_ad": "Abu Shahrain",
+      "ulke": "Irak",
+      "lat": 30.8158,
+      "lon": 45.9958,
+      "donem": "Ubeyd – Ur III",
+      "onem": "Sümer inancında yeryüzünün en eski şehri. Bilgelik Tanrısı Enki'nin tapınağı E-abzu. Adapa (Apkallu) efsanesinin mekanı (Adem anlatısı paraleli).",
+      "kaynak": "Sumerian King List; Izre'el, Adapa and the South Wind"
     }
   ]
 }

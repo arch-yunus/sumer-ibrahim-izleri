@@ -6,49 +6,73 @@
       "motif": "Tufan",
       "mezopotamya": {
         "metinler": ["Ziusudra (Sümer)", "Atrahasis", "Gilgameş Tab. XI (Utnapiştim)"],
-        "ozet": "Tanrı(lar) insanlığı cezalandırır; bir kişi uyarılır, gemi inşa edilir, hayvanlar kurtarılır, kurban sunulur"
+        "ozet": "Tanrı(lar) insanlığın gürültüsü nedeniyle tufan kararı alır; Ea kamış duvara fısıldayarak kahramanı uyarır, küp/kare gemi inşa edilir, zanaatkarlar ve hayvanlar kurtarılır, Nisir dağına oturulur, güvercin-kırlangıç-karga salınır, kurban sunulur, ölümsüzlük verilir."
       },
       "ibrahimi": {
         "metinler": ["Tevrat (Bereshit 6–9)", "Kur'an (Hud, Nuh sureleri)"],
-        "ozet": "Nuh uyarılır; gemi; yağmur tufanı; kuşlar; Tanrı ile antlaşma"
+        "ozet": "Ahlaki yozlaşma nedeniyle tufan gelir; Nuh açıkça uyarılır, dikdörtgen sandık inşa edilir, aile ve çift çift hayvanlar kurtarılır, Ararat veya Cudi dağına oturulur, karga ve güvercin salınır, kurban sunulur, gökkuşağı ahdi kurulur."
       },
-      "not": "Fonksiyonel benzerlik; doğrudan metin aktarımı tartışmalıdır (Babylonian captivity etkisi vb.)"
+      "not": "Yapısal 10 adım (Tufan Protokolü) birebir aynıdır; teolojik ve ahlaki yeniden kodlama yapılmıştır."
     },
     {
       "motif": "Yaratılış / Kaos",
       "mezopotamya": {
         "metinler": ["Enuma Eliş"],
-        "ozet": "Tiamat ve Apsu; Marduk düzen kurar; insanlar kan ve çamurdan"
+        "ozet": "Tiamat ve Apsu ilksel su kaosu; tanrılar savaşı (theomachy); Marduk Tiamat'ı öldürüp bedenini ikiye yararak gök ve yeri yaratır; insan isyankar Kingu'nun kanı ve kilden köle olarak yaratılır."
       },
       "ibrahimi": {
         "metinler": ["Bereshit 1–2", "Kur'an yaratılış ayetleri"],
-        "ozet": "Tohu ve bohu; ruah; altı gün; Adem topraktan"
+        "ozet": "Tehom ve boşluk; Elohim'in kelamı ile yaratılış (theomachy yok); suların ayrılması; insan topraktan ve ilahi nefesle Tanrı'nın suretinde / yeryüzünün halifesi olarak onurlu kılınarak yaratılır."
       },
-      "not": "Kozmik düzenleme ve insanın son yaratılışı ortak tema"
+      "not": "Tevrat'taki 'Tehom' kelimesi Akkadca 'Tiamat' ile etimolojik kökendaştır; ancak yaratılış egemen kelam (fiat) ile gerçekleşir."
     },
     {
       "motif": "Kayıp ölümsüzlük",
       "mezopotamya": {
-        "metinler": ["Adapa efsanesi", "Gilgameş"],
-        "ozet": "Yasak yiyecek/içecek; tanrıların ölümsüzlük kararı"
+        "metinler": ["Adapa efsanesi", "Gilgameş Destanı"],
+        "ozet": "Adapa yaratıcısı Ea'ya itaat ettiği için Ea tarafından kandırılır ve Anu'nun sunduğu ölümsüzlük ekmeğini/suyunu reddeder. Gılgamış gençlik otunu bir yılana kaptırır."
       },
       "ibrahimi": {
-        "metinler": ["Adem–Havva (bilgi ağacı)", "Musa ve ölümsüzlük arayışı motifleri"],
-        "ozet": "Sınır ihlali ve ölüme mahkûmiyet"
+        "metinler": ["Adem–Havva (Aden Bahçesi)", "Kur'an (Araf / Taha)"],
+        "ozet": "İnsan yaratıcısına itaatsizlik edip yılanın/şeytanın aldatmasıyla bilgi ağacı meyvesinden yer, cennetten sürülür ve Yaşam Ağacı'ndan mahrum bırakılarak ölümlü kılınır."
       },
-      "not": "Adapa ile 'düşüş' metaforu karşılaştırmalı teolojide sık işlenir"
+      "not": "Adapa ile Adem anlatıları yasak yiyecek, ilahi uyarı, aldatılma ve yılan arketipi bağlamında derin teolojik paralellikler taşır."
     },
     {
       "motif": "Kurban / yerine koyma",
       "mezopotamya": {
         "metinler": ["Tapınak adak tabletleri", "Kral kurban metinleri"],
-        "ozet": "Günlük sunu, propisasyon, bazen insan kurbanı (nadir, tartışmalı)"
+        "ozet": "Tapınakta tanrıları beslemek için günlük et, şarap ve kurban sunumu; tanrıların açlığını giderme amacı."
       },
       "ibrahimi": {
-        "metinler": ["İshak kurbanı anlatısı", "Pesah", "Kurban bayramı"],
-        "ozet": "İman imtihanı; kuzu yerine koyma; kanla antlaşma"
+        "metinler": ["İshak kurbanı anlatısı (Yaratılış 22)", "Kur'an (Saffat - İsmail kurbanı ve koç)"],
+        "ozet": "Ataerkil sadakat imtihanı; insanın yerine bir koçun/kuzunun fidye olarak ikame edilmesi; kanla antlaşma."
       },
-      "not": "Ritüel süreklilik ile teolojik yeniden yorumlama ayrımı önemli"
+      "not": "Mezopotamya'daki 'tanrıyı besleme' ritüeli, İbrahimi dinlerde 'iman teslimiyeti ve ahlaki ikame' mantığına dönüştürülmüştür."
+    },
+    {
+      "motif": "Nehre bırakılan bebek",
+      "mezopotamya": {
+        "metinler": ["Büyük Sargon'un Doğum Efsanesi"],
+        "ozet": "Gayrimeşru rahibe annesi Sargon'u gizlice doğurur, ziftle sıvanmış sazdan sepete koyup Fırat nehrine bırakır; su taşıyıcısı Akki onu bulup evlat edinir ve İştar'ın sevgisiyle kral olur."
+      },
+      "ibrahimi": {
+        "metinler": ["Tevrat (Çıkış 2:1-10 - Musa'nın doğumu)", "Kur'an (Taha / Kasas)"],
+        "ozet": "Musa'nın annesi onu ziftli saz sepete koyup Nil nehrine bırakır; Firavun'un ailesi onu bulur ve halkını kölelikten kurtaracak bir peygamber olarak yetişir."
+      },
+      "not": "Saz sepet, nehre bırakılma ve kraliyet sarayında kurtulma motifi birebir aynı edebi arketipi izler."
+    },
+    {
+      "motif": "Babil Kulesi / Dil karışıklığı",
+      "mezopotamya": {
+        "metinler": ["Etemenanki Zigguratı gelenekleri", "Enmerkar ve Aratta Lordu"],
+        "ozet": "Göğe ulaşmak ve tanrıyla buluşmak için ziggurat inşası (Bāb-ili: Tanrı'nın Kapısı). Sümer epiklerinde dillerin tek bir tanrı (Enki) tarafından karıştırılması."
+      },
+      "ibrahimi": {
+        "metinler": ["Tevrat (Bereshit 11:1-9)"],
+        "ozet": "İnsanlığın gurur duyarak göğe erişecek tuğla ve ziftli bir kule inşa etmeye çalışması; Tanrı'nın kibri cezalandırmak için dilleri karıştırması (balal) ve Bavel (Babil) adı."
+      },
+      "not": "Mezopotamya ziggurat teknolojisi (pişmiş tuğla, zift harcı) ve kutsal kule konseptinin monoteist Kibirlenme Eleştirisi doğrultusunda yeniden kodlanması."
     }
   ]
 }
